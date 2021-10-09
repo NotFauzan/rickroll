@@ -1,0 +1,21 @@
+.top-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 10px;
+}
+
+body{
+    background-color: black;
+}
+
+.bottom-text2{
+    font-family: cursive;
+    color: white;
+    margin-left: 10px;
+}
+
+video{
+    border-radius: 40px;
+    margin: 20px;
+
+}

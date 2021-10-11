@@ -16,7 +16,7 @@ body {
   background-size: 1600px;
 }
 
-button {
+.button {
   color: black;
   background-color: #50f541;
   border: 0;
@@ -31,7 +31,7 @@ button {
   transition: all 0.4s;
 }
 
-button:hover {
+.button:hover {
   background-color: #39F2FF;
   cursor: pointer;
 }

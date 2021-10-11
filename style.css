@@ -30,6 +30,11 @@ button {
   left: 690px;
 }
 
+button:hover{
+  background-color: #7ECE7E;
+  cursor:pointer;
+}
+
 .bottom-text {
   font-family: "Glory", sans-serif;
   font-weight: 668;

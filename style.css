@@ -28,6 +28,7 @@ button {
   position: absolute;
   top: 480px;
   left: 690px;
+  transition: all 0.4s;
 }
 
 button:hover {

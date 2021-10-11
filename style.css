@@ -30,9 +30,9 @@ button {
   left: 690px;
 }
 
-button:hover{
+button:hover {
   background-color: #7ECE7E;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .bottom-text {

@@ -20,7 +20,7 @@ body {
   background-size: 1600px;
 }
 
-.button {
+button {
   color: black;
   background-color: #50f541;
   border: 0;
@@ -36,7 +36,7 @@ body {
   list-style: none;
 }
 
-.button:hover {
+button:hover {
   background-color: #39F2FF;
   cursor: pointer;
 }
